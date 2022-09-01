@@ -11,6 +11,11 @@
     text-align: center;
     color: white;
   }
+
+  .link {
+    text-decoration: none;
+    color: white;
+  }
   
   main, .b{
     height: 90vh;
